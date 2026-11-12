@@ -82,7 +82,8 @@ footer {
 
 img {
     border: #151515;
+    border-style: solid;
     border-radius: 10px;
     border-width: 10px;
-    border-style: solid;
+    
 }

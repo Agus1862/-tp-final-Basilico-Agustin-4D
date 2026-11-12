@@ -79,3 +79,8 @@ footer {
     color: white;
     background-color: #151515;
 }
+
+img {
+    border: #151515;
+    border-radius: 2px;
+}
